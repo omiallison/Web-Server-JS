@@ -5,7 +5,7 @@ Omi Allison | @omiallison
 
 WHAT: A testing server to help with website creation/development.
 
-WHEN: Before publishing a website, to make sure everything is proportional to your standards.
+WHEN TO USE: Before publishing a website, to make sure everything is proportional to your standards.
 
 License: View 'LICENSE' to acknowledge the license laws.
 
