@@ -1,7 +1,7 @@
 This is the repository of Web-Server-JS
 ---------------------------------------
 Contributors:
-<b>Omi Allison | @omiallison</b>
+<b>Omi Allison | @omi_allison</b>
 
 WHAT: A testing server to help with website creation/development.
 
