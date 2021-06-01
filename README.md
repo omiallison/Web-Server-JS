@@ -3,7 +3,7 @@ This is the repository of Web-Server-JS
 Contributors:
 Omi Allison | @omiallison
 
-WHAT: A testing server to help with website making.
+WHAT: A testing server to help with website creation/development.
 
 WHEN: Before publishing a website, to make sure everything is proportional to your standards.
 
