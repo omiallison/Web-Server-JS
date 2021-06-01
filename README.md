@@ -18,6 +18,8 @@ License Type: Apache License 2.0
 
 HOW TO USE:
 -----------------------
+I personally use Visual Studio Code: Insiders. Feel free to use whatever suits your fancy.
+
 First, you will need to make a port in 'server.js'. 
 The port number does NOT need to be a certain number, 
 it just specifies what the web server is running on.
