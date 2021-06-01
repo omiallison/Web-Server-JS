@@ -7,9 +7,9 @@ WHAT: A testing server to help with website creation/development.
 
 WHEN TO USE: Before publishing a website, to make sure everything is proportional to your standards.
 
-License: View 'LICENSE' for information on Apache License 2.0.
+License: View 'LICENSE' for information on MIT Licence
 
-License Type: Apache License 2.0
+License Type: MIT License
 
 
 [Requirements]
