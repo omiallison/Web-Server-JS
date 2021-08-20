@@ -32,6 +32,4 @@ After that, everything should be set up. Head over to the terminal and type 'nod
 CONTACT
 -------------------
 
-Discord: Renti#1360
-
 Twitter: @omi_allison
