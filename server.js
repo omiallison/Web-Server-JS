@@ -1,6 +1,6 @@
 const http = require('http')
 const fs = require('fs')
-const port = 0000
+const port = 0000 // Put 4-digit port here
 
 const server = http.createServer(function(req, res) {
     res.writeHead(200, { 'Content-Type': 'text/html' })
