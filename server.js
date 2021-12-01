@@ -1,6 +1,6 @@
 const http = require('http')
 const fs = require('fs')
-const port = 0000 // Put 4-digit port here
+const port = 9837 // Put 4-digit port here
 
 const server = http.createServer(function(req, res) {
     res.writeHead(200, { 'Content-Type': 'text/html' })
@@ -17,7 +17,7 @@ const server = http.createServer(function(req, res) {
 
 server.listen(port, function(error) {
     if (error) {
-        console.log('Something went wrong', error)
+        console.log('Something went wrong', error) //If logged, check if the port is in code.
     } else {
         console.log('Server is listening on port ' + port)
     }
