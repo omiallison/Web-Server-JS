@@ -13,7 +13,7 @@ License Type: MIT License
 
 
 [Requirements]
-<b>Node.JS 14.17.5 Recommended</b>
+<b>Node.JS 16.15.0 Recommended</b>
 
 
 HOW TO USE:
